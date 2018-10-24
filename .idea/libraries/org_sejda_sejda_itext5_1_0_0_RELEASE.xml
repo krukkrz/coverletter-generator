@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="org.sejda:sejda-itext5:1.0.0.RELEASE" type="repository">
+    <properties maven-id="org.sejda:sejda-itext5:1.0.0.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sejda-itext5-1.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sejda-core-1.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-1.0.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk15on-1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sejda-model-1.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/itextpdf-5.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcpkix-jdk15on-1.49.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
